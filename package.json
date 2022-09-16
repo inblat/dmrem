@@ -21,7 +21,7 @@
     "vue": "^2.1.10"
   },
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "font-awesome": "^4.7.0",
     "jquery.stellar": "^0.6.2",
     "notie": "^4.3.1",
